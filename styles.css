@@ -368,7 +368,7 @@ body[data-theme="light"] .nav-links .nav-cta:hover { color: #084d91; }
 .footer-credit { display: flex; align-items: center; justify-content: center; gap: 5px; margin: 0; color: var(--muted); font-size: 10px; line-height: 1.5; text-align: center; }
 .footer-heart { width: 13px; height: 13px; flex: 0 0 auto; fill: #ef5364; }
 body[data-theme="dark"] .footer-heart { fill: #fff; }
-.scroll-top { position: fixed; z-index: 30; right: max(22px, calc((100vw - 1120px) / 2)); bottom: 22px; width: 44px; height: 44px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 50%; color: var(--text); background: var(--surface-raised); box-shadow: 0 8px 24px #0003; opacity: 0; visibility: hidden; transform: translateY(8px); transition: opacity .2s ease, visibility .2s ease, transform .2s ease, border-color .2s ease; cursor: pointer; }
+.scroll-top { position: fixed; z-index: 30; right: max(22px, calc((100vw - 1120px) / 2)); bottom: calc(92px + env(safe-area-inset-bottom, 0px)); width: 44px; height: 44px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 50%; color: var(--text); background: var(--surface-raised); box-shadow: 0 8px 24px #0003; opacity: 0; visibility: hidden; transform: translateY(8px); transition: opacity .2s ease, visibility .2s ease, transform .2s ease, border-color .2s ease; cursor: pointer; }
 .scroll-top.is-visible { opacity: 1; visibility: visible; transform: none; }
 .scroll-top:hover { border-color: var(--accent); color: var(--accent); }
 .scroll-top svg { width: 19px; height: 19px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
@@ -418,7 +418,7 @@ body[data-theme="dark"] .footer-heart { fill: #fff; }
   .footer-tagline { max-width: 18ch; font-size: 7px; }
   .footer-social { gap: 10px; }
   .footer-credit { justify-content: flex-start; flex-wrap: wrap; font-size: 9px; }
-  .scroll-top { right: 16px; bottom: 16px; width: 42px; height: 42px; }
+  .scroll-top { right: 16px; bottom: calc(88px + env(safe-area-inset-bottom, 0px)); width: 42px; height: 42px; }
 }
 @media print {
   .site-footer, .scroll-top { display: none !important; }
