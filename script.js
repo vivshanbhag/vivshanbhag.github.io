@@ -3,30 +3,39 @@ const navigation = document.querySelector("#site-navigation");
 const progressBar = document.querySelector("#scroll-progress-bar");
 const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
 const themeToggle = document.querySelector("#theme-toggle");
+const themeStorageKey = "site-theme-choice";
+const colorSchemePreference = window.matchMedia("(prefers-color-scheme: light)");
 const storedTheme = (() => {
-  try { return localStorage.getItem("site-theme"); } catch { return null; }
+  try { return localStorage.getItem(themeStorageKey); } catch { return null; }
 })();
-const themePreference = storedTheme === "light" || storedTheme === "dark"
-  ? storedTheme
-  : (window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
+let hasManualTheme = storedTheme === "light" || storedTheme === "dark";
+const themePreference = hasManualTheme ? storedTheme : (colorSchemePreference.matches ? "light" : "dark");
 
 function applyTheme(theme) {
   document.body.dataset.theme = theme;
   document.documentElement.style.colorScheme = theme;
+  document.querySelector('meta[name="theme-color"]')?.setAttribute("content", theme === "light" ? "#f1f6f3" : "#0c1414");
   if (!themeToggle) return;
   const light = theme === "light";
   themeToggle.setAttribute("aria-pressed", String(light));
   themeToggle.setAttribute("aria-label", "Switch to " + (light ? "dark" : "light") + " theme");
   themeToggle.title = "Switch to " + (light ? "dark" : "light") + " theme";
-  themeToggle.querySelector(".theme-icon").textContent = light ? "◐" : "☼";
+  themeToggle.querySelector(".theme-icon").textContent = light ? "☽" : "☼";
 }
 
 applyTheme(themePreference);
 themeToggle?.addEventListener("click", () => {
   const nextTheme = document.body.dataset.theme === "light" ? "dark" : "light";
+  hasManualTheme = true;
   applyTheme(nextTheme);
-  try { localStorage.setItem("site-theme", nextTheme); } catch { /* Theme remains active for this page view. */ }
+  try { localStorage.setItem(themeStorageKey, nextTheme); } catch { /* Theme remains active for this page view. */ }
 });
+
+const syncSystemTheme = (event) => {
+  if (!hasManualTheme) applyTheme(event.matches ? "light" : "dark");
+};
+if (colorSchemePreference.addEventListener) colorSchemePreference.addEventListener("change", syncSystemTheme);
+else colorSchemePreference.addListener?.(syncSystemTheme);
 
 if (menuButton && navigation) {
   menuButton.addEventListener("click", () => {
@@ -76,10 +85,22 @@ copyEmailButton?.addEventListener("click", async () => {
 });
 document.querySelector("#year").textContent = new Date().getFullYear();
 
+const scrollTopButton = document.querySelector("#scroll-top");
+const updateScrollTopButton = () => {
+  const visible = window.scrollY > 420;
+  scrollTopButton?.classList.toggle("is-visible", visible);
+  scrollTopButton?.setAttribute("aria-hidden", String(!visible));
+  scrollTopButton?.setAttribute("tabindex", visible ? "0" : "-1");
+};
+scrollTopButton?.addEventListener("click", () => {
+  window.scrollTo({ top: 0, behavior: reduceMotion.matches ? "auto" : "smooth" });
+});
+
 const updateScrollEffects = () => {
   const scrollable = document.documentElement.scrollHeight - window.innerHeight;
   const progress = scrollable > 0 ? Math.min(window.scrollY / scrollable, 1) : 0;
   progressBar?.style.setProperty("width", `${progress * 100}%`);
+  updateScrollTopButton();
 
   if (!reduceMotion.matches) {
     document.querySelectorAll("[data-parallax]").forEach((shape) => {
@@ -142,6 +163,7 @@ if ("IntersectionObserver" in window) {
   }, { rootMargin: "-25% 0px -60% 0px", threshold: [0, 0.15, 0.4] });
   observedSections.forEach((section) => sectionObserver.observe(section));
 }
+
 
 
 
