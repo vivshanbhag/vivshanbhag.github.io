@@ -1,125 +1,1442 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Count 2
+/Kids [ 3 0 R 11 0 R ]
+/Type /Pages
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Annots [ 4 0 R 5 0 R 6 0 R ]
+/Contents 7 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 2 0 R
+/Resources <<
+/Font 8 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (mailto:vivekduq@gmail.com)
->> /Border [ 0 0 0 ] /Rect [ 100.152 678.44 176.288 688.04 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (mailto\072vivekduq\100gmail\056com)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 100.152 678.44 176.288 688.04 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.linkedin.com/in/vivshanbhag)
->> /Border [ 0 0 0 ] /Rect [ 182.816 678.44 282.856 688.04 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056linkedin\056com\057in\057vivshanbhag)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 182.816 678.44 282.856 688.04 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://vivshanbhag.github.io)
->> /Border [ 0 0 0 ] /Rect [ 289.384 678.44 366.76 688.04 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057vivshanbhag\056github\056io)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 289.384 678.44 366.76 688.04 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R ] /Contents 13 0 R /MediaBox [ 0 0 612 792 ] /Parent 12 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/Length 8081
 >>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.031373 0.490196 0.388235 rg
+n
+0 784 612 8 re
+f*
+0.847059 0.901961 0.87451 RG
+0.6 w
+n
+39.6 30.24 m
+572.4 30.24 l
+S
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0.27451 0.356863 0.321569 rg
+BT
+1 0 0 1 39.6 19.44 Tm
+(Vivek Shanbhag \174 Software Development Engineer II) Tj
+T*
+ET
+BT
+1 0 0 1 548.6325 19.44 Tm
+(Page 1) Tj
+T*
+ET
+Q
+q
+1 0 0 1 45.6 709.04 cm
+q
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 25 Tf
+28 TL
+(Vivek Shanbhag) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 693.04 cm
+q
+BT
+1 0 0 1 0 3 Tm
+13 TL
+/F1 10 Tf
+0.031373 0.490196 0.388235 rg
+(SOFTWARE DEVELOPMENT ENGINEER II \174 SOFTWARE\054 CLOUD \046 AGENTIC AI) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 677.04 cm
+q
+BT
+1 0 0 1 0 3 Tm
+11 TL
+/F1 8 Tf
+0.27451 0.356863 0.321569 rg
+(United States \174 ) Tj
+0.031373 0.490196 0.388235 rg
+(vivekduq\100gmail\056com) Tj
+0.27451 0.356863 0.321569 rg
+( \174 ) Tj
+0.031373 0.490196 0.388235 rg
+(linkedin\056com\057in\057vivshanbhag) Tj
+0.27451 0.356863 0.321569 rg
+( \174 ) Tj
+0.031373 0.490196 0.388235 rg
+(vivshanbhag\056github\056io) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 657.04 cm
+q
+0.031373 0.490196 0.388235 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 10 Tf
+12 TL
+(PROFESSIONAL SUMMARY) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 652.34 cm
+q
+0.7 w
+1 J
+0.847059 0.901961 0.87451 RG
+n
+0 0 m
+520.8 0 l
+S
+Q
+Q
+q
+1 0 0 1 45.6 599.34 cm
+q
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 0 39.3 Tm
+/F1 8.7 Tf
+12 TL
+(Software and systems engineer with 11\053 years of experience building software\054 automation\054 cloud\054 data\054 and machine\055learning) Tj
+T*
+(solutions across operational and customer\055facing environments\056 At AWS\054 work focuses on system design\054 operational reliability\054) Tj
+T*
+(automation\054 and AI\055enabled workflows\056 Experienced in translating complex workflows into reliable\054 reviewable systems\073 M\056S\056 in) Tj
+T*
+(Analytics and Information Management\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 579.34 cm
+q
+0.031373 0.490196 0.388235 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 10 Tf
+12 TL
+(TECHNICAL SKILLS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 574.64 cm
+q
+0.7 w
+1 J
+0.847059 0.901961 0.87451 RG
+n
+0 0 m
+520.8 0 l
+S
+Q
+Q
+q
+1 0 0 1 45.6 548.64 cm
+q
+BT
+1 0 0 1 0 12.9 Tm
+10.5 TL
+/F2 8.1 Tf
+0.090196 0.137255 0.117647 rg
+(Software\072) Tj
+/F1 8.1 Tf
+( Python\054 Rust\054 TypeScript\054 Java\054 JavaScript\054 REST APIs\054 SQL\054 backend and full\055stack development\054 system design\054 unit testing\054) Tj
+T*
+(automation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 525.64 cm
+q
+BT
+1 0 0 1 0 12.9 Tm
+10.5 TL
+/F2 8.1 Tf
+0.090196 0.137255 0.117647 rg
+(Cloud and Systems\072) Tj
+/F1 8.1 Tf
+( AWS \050EMR\054 Glue\054 Lambda\054 S3\054 EC2\054 DynamoDB\054 IAM\054 VPC\051\054 AWS CDK\054 distributed systems\054 cloud architecture\054) Tj
+T*
+(infrastructure as code\054 observability\054 reliability engineering) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 502.64 cm
+q
+BT
+1 0 0 1 0 12.9 Tm
+10.5 TL
+/F2 8.1 Tf
+0.090196 0.137255 0.117647 rg
+(AI and Data\072) Tj
+/F1 8.1 Tf
+( Agentic AI\054 LLM tool use\054 workflow orchestration\054 Amazon Bedrock\054 SageMaker\054 machine learning\054 NLP\054 XGBoost\054 TensorFlow\054) Tj
+T*
+(scikit\055learn\054 Kafka\054 Spark\054 Hadoop\054 Databricks\054 Pandas\054 Tableau\054 Power BI) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 482.64 cm
+q
+0.031373 0.490196 0.388235 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 10 Tf
+12 TL
+(PROFESSIONAL EXPERIENCE) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 477.94 cm
+q
+0.7 w
+1 J
+0.847059 0.901961 0.87451 RG
+n
+0 0 m
+520.8 0 l
+S
+Q
+Q
+q
+1 0 0 1 39.6 447.94 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 14 cm
+q
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 9 Tf
+11 TL
+(Software Development Engineer II) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 399.6 15 cm
+q
+0.031373 0.490196 0.388235 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+62.504 0 Td
+(Mar 2024 \055 Present) Tj
+T*
+-62.504 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+0.27451 0.356863 0.321569 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Amazon Web Services \174 Seattle\054 WA) Tj
+T*
+ET
+Q
+Q
+BT
+1 0 0 1 399.6 3 Tm
+T*
+ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.6 437.24 cm
+q
+BT
+1 0 0 1 0 2.5 Tm
+/F1 10 Tf
+12 TL
+0.090196 0.137255 0.117647 rg
+(\055) Tj
+ET
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 11 2.5 Tm
+/F1 8.2 Tf
+10.7 TL
+-1.67 0 Td
+(Build and improve reliable systems\054 automation\054 and internal engineering tools for complex operational workflows\056) Tj
+T*
+1.67 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 45.6 414.34 cm
+q
+BT
+1 0 0 1 0 13.2 Tm
+/F1 10 Tf
+12 TL
+0.090196 0.137255 0.117647 rg
+(\055) Tj
+ET
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 11 13.2 Tm
+/F1 8.2 Tf
+10.7 TL
+-1.67 0 Td
+-0.087442 Tw
+(Apply system design\054 AI\055enabled workflows\054 operational visibility\054 and on\055call reliability practices\073 employer work is described at a high level to) Tj
+T*
+0 Tw
+1.67 0 Td
+(respect confidentiality\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 408.84 cm
+Q
+q
+1 0 0 1 39.6 383.84 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 14 cm
+q
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 9 Tf
+11 TL
+(Forward Deployed Engineer \055 EMR) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 399.6 15 cm
+q
+0.031373 0.490196 0.388235 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+56.28 0 Td
+(Aug 2022 \055 Mar 2024) Tj
+T*
+-56.28 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+0.27451 0.356863 0.321569 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Amazon Web Services \174 Boston\054 MA) Tj
+T*
+ET
+Q
+Q
+BT
+1 0 0 1 399.6 3 Tm
+T*
+ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.6 373.14 cm
+q
+BT
+1 0 0 1 0 2.5 Tm
+/F1 10 Tf
+12 TL
+0.090196 0.137255 0.117647 rg
+(\055) Tj
+ET
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 11 2.5 Tm
+/F1 8.2 Tf
+10.7 TL
+-1.67 0 Td
+(Supported AWS customers with cloud architecture\054 migration\054 and troubleshooting for Amazon EMR and distributed data workloads\056) Tj
+T*
+1.67 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 45.6 360.94 cm
+q
+BT
+1 0 0 1 0 2.5 Tm
+/F1 10 Tf
+12 TL
+0.090196 0.137255 0.117647 rg
+(\055) Tj
+ET
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 11 2.5 Tm
+/F1 8.2 Tf
+10.7 TL
+-1.67 0 Td
+(Developed engineering automation and published technical guidance\073 served as a Quality Champion for the NA\055East region\056) Tj
+T*
+1.67 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 45.6 355.44 cm
+Q
+q
+1 0 0 1 39.6 330.44 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 14 cm
+q
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 9 Tf
+11 TL
+(Data Engineering Intern) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 399.6 15 cm
+q
+0.031373 0.490196 0.388235 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+54.944 0 Td
+(May 2022 \055 Aug 2022) Tj
+T*
+-54.944 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+0.27451 0.356863 0.321569 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Highmark Health \174 Pittsburgh\054 PA) Tj
+T*
+ET
+Q
+Q
+BT
+1 0 0 1 399.6 3 Tm
+T*
+ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.6 319.74 cm
+q
+BT
+1 0 0 1 0 2.5 Tm
+/F1 10 Tf
+12 TL
+0.090196 0.137255 0.117647 rg
+(\055) Tj
+ET
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 11 2.5 Tm
+/F1 8.2 Tf
+10.7 TL
+-1.67 0 Td
+(Collaborated on a data\055pipeline migration from Informatica BDM to Google Cloud using Kafka and Databricks\056) Tj
+T*
+1.67 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 45.6 296.84 cm
+q
+BT
+1 0 0 1 0 13.2 Tm
+/F1 10 Tf
+12 TL
+0.090196 0.137255 0.117647 rg
+(\055) Tj
+ET
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 11 13.2 Tm
+/F1 8.2 Tf
+10.7 TL
+-1.67 0 Td
+(Built an ARIMA model for irregular insurance\055claims patterns\054 reducing database anomalies by 8\045 and improving KPIs by 26\045\073 created) Tj
+T*
+1.67 0 Td
+(Tableau views for pricing and sales decisions\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 291.34 cm
+Q
+q
+1 0 0 1 39.6 266.34 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 14 cm
+q
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 9 Tf
+11 TL
+(Data Scientist Intern) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 399.6 15 cm
+q
+0.031373 0.490196 0.388235 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+56.72 0 Td
+(Apr 2022 \055 May 2022) Tj
+T*
+-56.72 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+0.27451 0.356863 0.321569 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Carmeuse Americas \174 Pittsburgh\054 PA) Tj
+T*
+ET
+Q
+Q
+BT
+1 0 0 1 399.6 3 Tm
+T*
+ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.6 255.64 cm
+q
+BT
+1 0 0 1 0 2.5 Tm
+/F1 10 Tf
+12 TL
+0.090196 0.137255 0.117647 rg
+(\055) Tj
+ET
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 11 2.5 Tm
+/F1 8.2 Tf
+10.7 TL
+-1.67 0 Td
+(Developed machine\055learning models to predict usable lime production and automated weekly\054 site\055level reporting for operations managers\056) Tj
+T*
+1.67 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 45.6 250.14 cm
+Q
+
+endstream
 endobj
 8 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/vivshanbhag/incident-triage-agent)
->> /Border [ 0 0 0 ] /Rect [ 45.6 394.8 221.1312 405.24 ] /Subtype /Link /Type /Annot
+/F1 9 0 R
+/F2 10 0 R
 >>
 endobj
 9 0 obj
 <<
-/Annots [ 8 0 R ] /Contents 14 0 R /MediaBox [ 0 0 612 792 ] /Parent 12 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/PageMode /UseNone /Pages 12 0 R /Type /Catalog
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 11 0 obj
 <<
-/Author (Vivek Shanbhag) /CreationDate (D:20260926225738-07'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260926225738-07'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Vivek Shanbhag - Resume) /Trapped /False
+/Annots [ 12 0 R ]
+/Contents 13 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 2 0 R
+/Resources <<
+/Font 8 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 12 0 obj
 <<
-/Count 2 /Kids [ 7 0 R 9 0 R ] /Type /Pages
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057vivshanbhag\057incident\055triage\055agent)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 45.6 394.8 221.1312 405.24 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 13 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2662
+/Length 8003
 >>
 stream
-Gb!#\gN)=4&q0LUoLlW_K];JFlE^#eZ:oV0O_g#UR7XFL!`>&4'hN?E;NA3Vn_4$sU2B^hNQ:@*Pq>p"GN5@noP*#eiK(*jLG?Tt*8XuR?op&LJ_`6=0HYp35P]J3>-@79>qk#]bO0SiFF-0kog#TS'&;:0[@r6-H6=W;IQB31mB5RD_:5N&0RMWaB>a*,`9b8KDK5RK_6lt7%5E*5#@/)E71buR@<>4>`R->k0HG#JFM1GQK9<[(m</7T!aKZ1-dd,)^=gNQ@lXG(G'",.L*VZd=i6jClt&Xr$0QD#,G)n3ahU^'/>6%YB_3OnrseRlPe2ZIYMCurY2_AJ:W]&Wh,sX_6)rMF4Ue'#ohDKHY\Nf&e.>!foC/s>mBjKL@^j-Q[bk@Mi96@d4a$BYLUcI;T%?`pXhERMD7dr`^1'_qGkb=u2#&Yiqi_$*r@e0FH91T"k29TPNimbZL.EaEY:o$F#;b7fiV<9@3W&s`QagceKYcl/.(e<UU9psLHTK6'mN#%e-S2#c#VqQ?M%OI*Nu_u5TNpX:rj@amMp.:'`Kl9b4ND3TOtBtF7+lq-P'?+Y2K.o"RW"QLf.>\;$^:*.!;=!`jEn+QDdi*6a]IPX+otBOl0S8`%t`4%eR/g%kK.6gqs>iiNp0TY]3+GYr:1+:,^M,,J7G!1r1jVVLfLY95?N>O3T6:`:mailb2H;#?Y)/!\V_Y*O<l:$M?e#1AB_o_@8D`A^fNf$8?#uR#q7EG(?&Q&6'aD;+F1t:OtiOF&4Sch)R(J)0spV@KGuc&MU5CUq^V)1-'*)S7fiu#Qfn[&BIb@V42Y<t>q0#.&h8YnfeL;V`ECWB5mDtFJH7]7Cgk;&0pVf8b1".h9")`aRRRI?(g4)!AUC0^UD^`83Z,8<65C0aPqp%1p^MQ@CB0[9'$(2IA;%QK/55msU44.`j+<5Vc6@p3clJl?l>m.%H^L1OM<jFT"rQ5]A"hC,N04nl78PZ]$$*./[/"t'H/3(er10@MqniqGUS1<TO/)5)GfjsZm(@_[X.FBk,&PBeCR2>,HQ;A8H_t)qq*T:EaS:8M_\<iZ2k@g-T5E*FcS45bR.!rlKS$&qq%p=]`UE*6bR`hiR#[sC_5FO=$PI>+hO(m^<?=R\RGeh'^:LurG;D!EdK\cJPs!+8n-QHBmmV46Wd<4SQdXdt5Zh[gql)fJ)/pJTR*fCV0:%Dfi#:Ma*<XU]$&SKRR/s)!`.0MiiU8uLHJe5i,I.?6R:(qX264"c8u;S4O<-.qAiVV<N<W$VK&E5*56iC;b*M7Y0-h:EWeQuH?*dUb@NIe]EaBHr_+;IfNf8/j]/A^N$^"I$[daJUc6GTW12=N'NY#SZLm!Dq1&2@2r>AlJ*c;R#/H6%0;INO0$5JmGE&F4*nE]0Rk;mg$,.Y3KUB`2YaL3WMkgt?GA@5DRQP+kH5EI2SWM*g/#Sq=J>,HN]Jq)s@YXjcbp^QqMZR7"m]6?O5"ZrmeldVPdr2ZOkKR6ZtrKecQ/Yq.gK2kQo;&nPf+H)W[LsS\g^Y#H"*;\Bb?*rg./+pN*lOgr0+0S"(:3F!"F<&as&VZjDE&o-D*"*"9(/+ms(ek`2X1@Y)3(hX8OZ[9(W<9DpJXi#PnWb^L_"q];<kAAY=f*,(f>/IaD@K![dSa,h"lJs8q\eI<ebjQ^(*(9tn\%#6N"T;T*]:8e.g,:\)bt]k0n*:uZ&PGgS"4GB$"lkWBsqGi.eo%T.cWdpGP)B%&Ls%ABb7(P+c33jeEWm0P7G1%_Y"JX"6G<UZ?qg7?.8WKkV^%9$t%15/S'AiIXcu1Q);t.DJq]crbcMm*L!R>571_gZpGD]d[#t%&nWUbhZH;hq-IcM,u^42Skr$1ciM7=^kSsM8EX+7GUF6[Q3sj9m9"9UG"B9HAAsk7T+L,I#sHqLH:WSO:@@Y@gN1QA?D#h%\3M'hrK:o+Q3U<'!D8;Pi&.]J3kZ0[6,$C,k+M='iG)\7XF!ZF42Y+%MKeV(XG.R[p)@YP+AYogPVuKmZ'tN"0np`HM%I#$BJ<[<G`F(#2k92b9[R#M/LH]gdM/?h1tC\)EO'sU`OR"iecKb)a\jYI+e*"lkQi)b'Z"7!K8U;f9u<"+@%FVM_;Y)N."/5=#mX?&P\ZkAiJ,:Mg9-O^2AE:u/Ka(7P27*!59E5<;st6X16QF<?bJWJ.J6oOO906o>NT]T;&`I!TWn,)'ih>WTVBHCn&%R9YS"i6'YjrG,-8C@@EPlL/on5Ri!f*!>\*TRmMi@&+cdhQi(,M#ol_kf72N(jV:a[FnuAYo<eAAI(H!@eZZA"[_'S8[e76I&SP,5DHK_Aa`+%)>G0r;J:>Mu.XL-Eu'_P-$K@sonJ/G3W8CI_U8.p3$]p0m!(Q)a,@71r-2CZdmX>?j<pgpU8nL:[Y7&p!E86HPBL:Gl'mtZY[eUUCbq?s4m_g;Xm<O[)mcdQof"nh_o:qJ/cY:3>^p*A9H:lg=/k]e;D:fC-H/f!e;mW(@Z>5\A,\17iQ&qrltYK'lgZg1R/.MW0t[D,(6LNVL0[t[;h1rkOmTOttpPi%,(n61je13u=3Fm/dJhmaKQ-l"b==D80kM-T>>0k)lVB,mtUQ3X6i:_OD:gBbh>M9;l!bUA&mV,iGSH7kBE;n]"CIt?05Wt_G':>k3J\at"r~>endstream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.031373 0.490196 0.388235 rg
+n
+0 784 612 8 re
+f*
+0.847059 0.901961 0.87451 RG
+0.6 w
+n
+39.6 30.24 m
+572.4 30.24 l
+S
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0.27451 0.356863 0.321569 rg
+BT
+1 0 0 1 39.6 19.44 Tm
+(Vivek Shanbhag \174 Software Development Engineer II) Tj
+T*
+ET
+BT
+1 0 0 1 548.6325 19.44 Tm
+(Page 2) Tj
+T*
+ET
+Q
+q
+1 0 0 1 45.6 725.04 cm
+q
+0.031373 0.490196 0.388235 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 10 Tf
+12 TL
+(PROFESSIONAL EXPERIENCE \055 CONTINUED) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 720.34 cm
+q
+0.7 w
+1 J
+0.847059 0.901961 0.87451 RG
+n
+0 0 m
+520.8 0 l
+S
+Q
+Q
+q
+1 0 0 1 39.6 690.34 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 14 cm
+q
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 9 Tf
+11 TL
+(Data Science Intern) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 399.6 15 cm
+q
+0.031373 0.490196 0.388235 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+60.272 0 Td
+(Jul 2021 \055 Mar 2022) Tj
+T*
+-60.272 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+0.27451 0.356863 0.321569 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(BioMotivate \174 Pittsburgh\054 PA) Tj
+T*
+ET
+Q
+Q
+BT
+1 0 0 1 399.6 3 Tm
+T*
+ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.6 679.64 cm
+q
+BT
+1 0 0 1 0 2.5 Tm
+/F1 10 Tf
+12 TL
+0.090196 0.137255 0.117647 rg
+(\055) Tj
+ET
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 11 2.5 Tm
+/F1 8.2 Tf
+10.7 TL
+-1.67 0 Td
+(Applied statistical and machine\055learning methods to healthcare and wearable\055sensor data\056) Tj
+T*
+1.67 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 45.6 656.74 cm
+q
+BT
+1 0 0 1 0 13.2 Tm
+/F1 10 Tf
+12 TL
+0.090196 0.137255 0.117647 rg
+(\055) Tj
+ET
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 11 13.2 Tm
+/F1 8.2 Tf
+10.7 TL
+-1.67 0 Td
+(Built ETL pipelines and an XGBoost classifier with 85\045 accuracy for a treatment\055dropout prediction task\073 created reusable resampling code) Tj
+T*
+1.67 0 Td
+(and KPI dashboards for clinical staff\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 651.24 cm
+Q
+q
+1 0 0 1 39.6 626.24 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 14 cm
+q
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 9 Tf
+11 TL
+(Graduate Research Assistant) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 399.6 15 cm
+q
+0.031373 0.490196 0.388235 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+56.272 0 Td
+(May 2021 \055 Mar 2022) Tj
+T*
+-56.272 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+0.27451 0.356863 0.321569 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Duquesne University \174 Pittsburgh\054 PA) Tj
+T*
+ET
+Q
+Q
+BT
+1 0 0 1 399.6 3 Tm
+T*
+ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.6 604.84 cm
+q
+BT
+1 0 0 1 0 13.2 Tm
+/F1 10 Tf
+12 TL
+0.090196 0.137255 0.117647 rg
+(\055) Tj
+ET
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 11 13.2 Tm
+/F1 8.2 Tf
+10.7 TL
+-1.67 0 Td
+(Supported faculty research in machine learning and data engineering\054 contributed to data\055collection design\054 and built Python models for) Tj
+T*
+1.67 0 Td
+(sports analytics\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 599.34 cm
+Q
+q
+1 0 0 1 39.6 574.34 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 14 cm
+q
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 9 Tf
+11 TL
+(Information Technology Analyst \057 Team Lead) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 399.6 15 cm
+q
+0.031373 0.490196 0.388235 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+57.608 0 Td
+(Dec 2016 \055 Apr 2021) Tj
+T*
+-57.608 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+0.27451 0.356863 0.321569 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Tata Consultancy Services \174 Mumbai\054 India) Tj
+T*
+ET
+Q
+Q
+BT
+1 0 0 1 399.6 3 Tm
+T*
+ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.6 563.64 cm
+q
+BT
+1 0 0 1 0 2.5 Tm
+/F1 10 Tf
+12 TL
+0.090196 0.137255 0.117647 rg
+(\055) Tj
+ET
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 11 2.5 Tm
+/F1 8.2 Tf
+10.7 TL
+-1.67 0 Td
+(Led a seven\055person software development and consulting team on the TCS iON Energy project\056) Tj
+T*
+1.67 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 45.6 551.44 cm
+q
+BT
+1 0 0 1 0 2.5 Tm
+/F1 10 Tf
+12 TL
+0.090196 0.137255 0.117647 rg
+(\055) Tj
+ET
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 11 2.5 Tm
+/F1 8.2 Tf
+10.7 TL
+-1.67 0 Td
+(Designed a ticket\055escalation module that saved more than 200 hours annually and contributed to a 6\0564\045 revenue increase\056) Tj
+T*
+1.67 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 45.6 528.54 cm
+q
+BT
+1 0 0 1 0 13.2 Tm
+/F1 10 Tf
+12 TL
+0.090196 0.137255 0.117647 rg
+(\055) Tj
+ET
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 11 13.2 Tm
+/F1 8.2 Tf
+10.7 TL
+-1.67 0 Td
+(Built executive dashboards and energy analytics modules\073 development guidelines and training contributed to a 15\045 productivity increase\056) Tj
+T*
+1.67 0 Td
+(Received the Best Process Improvement Award in April 2020\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 523.04 cm
+Q
+q
+1 0 0 1 39.6 498.04 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 14 cm
+q
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 9 Tf
+11 TL
+(Product Engineer) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 399.6 15 cm
+q
+0.031373 0.490196 0.388235 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+57.608 0 Td
+(Apr 2014 \055 Dec 2016) Tj
+T*
+-57.608 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+0.27451 0.356863 0.321569 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Intellect Design Arena \174 Mumbai\054 India) Tj
+T*
+ET
+Q
+Q
+BT
+1 0 0 1 399.6 3 Tm
+T*
+ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.6 487.34 cm
+q
+BT
+1 0 0 1 0 2.5 Tm
+/F1 10 Tf
+12 TL
+0.090196 0.137255 0.117647 rg
+(\055) Tj
+ET
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 11 2.5 Tm
+/F1 8.2 Tf
+10.7 TL
+-1.67 0 Td
+(Automated multilingual report generation\054 reducing a client\047s manual reporting workload by 80\045 \050about 10 hours per week\051\056) Tj
+T*
+1.67 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 45.6 464.44 cm
+q
+BT
+1 0 0 1 0 13.2 Tm
+/F1 10 Tf
+12 TL
+0.090196 0.137255 0.117647 rg
+(\055) Tj
+ET
+0.090196 0.137255 0.117647 rg
+BT
+1 0 0 1 11 13.2 Tm
+/F1 8.2 Tf
+10.7 TL
+-1.67 0 Td
+(Developed a Java Spring and REST currency\055exchange calculator\073 supported requirements analysis\054 unit testing\054 technical documentation\054) Tj
+T*
+1.67 0 Td
+(and WebLogic upgrades\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 458.94 cm
+Q
+q
+1 0 0 1 45.6 438.94 cm
+q
+0.031373 0.490196 0.388235 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 10 Tf
+12 TL
+(OPEN\055SOURCE PROJECT) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 434.24 cm
+q
+0.7 w
+1 J
+0.847059 0.901961 0.87451 RG
+n
+0 0 m
+520.8 0 l
+S
+Q
+Q
+q
+1 0 0 1 45.6 393.24 cm
+q
+BT
+1 0 0 1 0 27.3 Tm
+12 TL
+/F2 8.7 Tf
+0.090196 0.137255 0.117647 rg
+(Incident Triage Agent) Tj
+/F1 8.7 Tf
+( \174 Human\055in\055the\055loop agentic incident\055response reference app\056 Uses bounded\054 read\055only diagnostics to produce) Tj
+T*
+(an evidence\055based incident brief for operator review\056 Includes high\055level and low\055level design docs\056) Tj
+T*
+0.031373 0.490196 0.388235 rg
+(github\056com\057vivshanbhag\057incident\055triage\055agent) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 373.24 cm
+q
+0.031373 0.490196 0.388235 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 10 Tf
+12 TL
+(EDUCATION) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 368.54 cm
+q
+0.7 w
+1 J
+0.847059 0.901961 0.87451 RG
+n
+0 0 m
+520.8 0 l
+S
+Q
+Q
+q
+1 0 0 1 45.6 353.54 cm
+q
+BT
+1 0 0 1 0 2.2 Tm
+10 TL
+/F2 7.8 Tf
+0.27451 0.356863 0.321569 rg
+(Master of Science in Analytics \046 Information Management) Tj
+/F1 7.8 Tf
+( \174 Duquesne University \174 2022 \174 Summa Cum Laude\054 GPA 4\0560 \057 4\0560) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 341.54 cm
+q
+BT
+1 0 0 1 0 2.2 Tm
+10 TL
+/F2 7.8 Tf
+0.27451 0.356863 0.321569 rg
+(Master of Business Administration\054 Finance) Tj
+/F1 7.8 Tf
+( \174 Welingkar Institute of Management \174 2019 \174 Distinction\073 ranked first in Finance batch) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 329.54 cm
+q
+BT
+1 0 0 1 0 2.2 Tm
+10 TL
+/F2 7.8 Tf
+0.27451 0.356863 0.321569 rg
+(Bachelor of Engineering in Computer Engineering) Tj
+/F1 7.8 Tf
+( \174 University of Pune \174 2013 \174 First Class) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 309.54 cm
+q
+0.031373 0.490196 0.388235 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 10 Tf
+12 TL
+(AWARDS AND CERTIFICATIONS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.6 304.84 cm
+q
+0.7 w
+1 J
+0.847059 0.901961 0.87451 RG
+n
+0 0 m
+520.8 0 l
+S
+Q
+Q
+q
+1 0 0 1 45.6 279.84 cm
+q
+BT
+1 0 0 1 0 12.2 Tm
+10 TL
+/F1 7.8 Tf
+0.27451 0.356863 0.321569 rg
+(AWSome Builder Award\054 AWS GSSO Innovation Hackathon winner \0502025\051\073 AWSome Builder Awards \050June and August 2024\051\073 Python Certification\054) Tj
+T*
+(HackerRank \0502024\051\073 Intro to Python\054 O\047Reilly \0502024\051\073 HTML5\054 JavaScript \046 CSS3 Specialist\054 Microsoft \0502013\051\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
 endobj
 14 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2697
+/Author (Vivek Shanbhag)
+/CreationDate (D\07220260926225738\05507\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260926225738\05507\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (Vivek Shanbhag \055 Resume)
+/Trapped /False
 >>
-stream
-Gb!#]gN)%.&q0LUoLj@l.?WRp;Y`nMj[>Nhek5LF*qBApOG#=p1*A!+X6/HO)l,*Hj\'H"Y:EV]/:p-^qjc-%\DZ:0fDLR`J<Lju3-2q/@($%oYQL8@J`5tZqiU:@Y2Acc%XO/iMno%u?-a$I/WV0kh!#"SiG2^q*#?:2g"i=]KKZQaC)?5S-O="FHp"\Z\A;8E*e*T!gC#-VYiF\>oj9.ANuBf8G"?fK)C'(Els]d"e;_ffhfH]67i($/\%.@KfBq5lR[uh25@Vm@@Cfog^1'b1#H"u,k#i"gI*L-QaLK_RPY3/[="kQ+LY6#gqjic%gGB>MG3"#/hSs'6jP]DWs#2uQZT\ZBLlN;*:4R51gj=Cg38i3@+3luf*>8I7Y21'm0$f:$l0.]4O,j!V4Ih@b(P<l50Y"c_N@qAgVfrP0@#AIk)cJf]Iht:5&gD&H`N\99?2R)6\\"p4En&k2lBhhLFUWlqlo4^mh9k'TV""V7`X>03m<54so<;#:AkUacjHO?_do^Q,Eu7KnQ$gp^Ia;CGr#\;R29.b"CkN)]Gkc6D5jNKVK'.A2L>eXOqRD63[D24&4V%7H.F/%eee32aP1GK2cZ:\h9QNVp=D2!c/%&Wi@GLn!'6i);BLa""$bi)VpCJ!\E+'EY]>bC0Z[4EU31/'uN'0SeB13db]QZouY-l>:gu:>[CIapB!<&W_"](f@9T)f,R&.T/!Z?ntaCd$b9M$CoOE%tVP7hsI/'_&+MA`E./\StHCn>[JjKcuE,R>oIj1a>HLKP@GOki%Y,M0E<QZpmW.?A`<U_5+K*.D+JJu@h"dTi>7q"*N;SsLATPa/(I#ZSSYTi]SMhZ8Yq9!S.,(?cM<>&gE2/?M>%7:'[V'Mh,u74pm4o(j24>(Y^0]IM%$pn;49L'T"8k6\oleeZs/a*<8T03@b8.?"iZ(ZRS(RMa_s_L>bEU<oaDJPip1:gVX6H@:A@W)uq03@DI-OMra6UQ=q3;SRf[+Yn7.Fj=kH'WV+c0-aGoeb=rfP/ER'>c^PkDdPo:S,a5V>:8I<.Z.IC9,9(];KRWH^dH2&E5>SbL`[m6^mbZ7^MG-_UfLr2d5ECe[(qRj2!$S6'4-QmCn$dSLA^(9e3D_08XLEN*M?k5G*+PaoG4:1I"HJa`l10d]!)kGho^P5`7nkIpgM2&Q-@^)Gmf&3'aib%r/tX\KsTht8D(0lVq_"@PfLj-2aS/N$U[7)8&Drn013SoJS:.g&i%EPWqqs\[>6OPquc+^2J8bD<E(0p0486+q/<uhpk%"(:gsqXXTCotiDSeGI7&-CZI]s*LZ7$)`(*PcTnKo70H3\O>[Ch0^_K2;;#+Hh^h4Go+f;C"NI0p>.#DpY9#<I;(,%BofCVBeWA)H[("6!b26P)BAcA!OD?j3fV+=Bm`R=C%j2l`.@M%5/4&eJ(6H)e%WIcPoo3LR&mI8@nIU.Hn^Nj'm\^'qb*V'N?iNq(j`inLo*?6[^OmLV9=tq2d]'9N]\lcNe'U&lF_4"9h,@54]Gg$=[NpqG5;'<n/7o:[CPi3s)DU.Yp.hYHMW*@-G4O-mI_=O/ApKhkGHJNF:r7]8$>l/*em_<oPW-'2c@_jB1]OD5@-J?lS:t$?ZMG*XEqB'f@g\h(PQ*"EX4>Yec7ab$p$Ha&T&QM-$,Z5PGCZAKP),lGj>Cq7t%4TH\DDaShajkO&1T\''U$K@DD_3lF*m*6Z?pUn0kL\VJ5?lrq-od_>hNYT/@l0Ao5-m,!Bq[GMlXVuG!HsT]ZhW,2J&dopQ5hT2@-PjVY)]42f#*ApYCnZgdo<$n/[_:86=\_$[AeO2Q#rlZ9_,]f[<7]TBJ%!iq3QIX@]5/1[U]67U,E:hG42#?eW9XQURrRh?&j[Vf(ANJ1)RlQEqsu?Qp"lC+)JRA?S]8M]D=[?]B`b'OhG:MD6D8B$N&g[I#VZq#mum89F2Vrp5q[aT3L?rCsYMRq,AM_/0QT=3EDU3"Ya,;0bV_H(3W(LQ<Z72=E%gUI&n`4\1061+g#:l'B1<2XB]4GJZ?,BH"iEhk.j%TD5RgK"Q4(L3Tem4'4J10$0FkLKpanCJe]GlM@m[CC_XcHXUm4k'$HQ*'$:Z\e,6*=X)>6LLc\^%N!sAOKjIc#43k/CCU#L]M=cSj[C,Op`O;@b&.j*'%M1jY`Sp(3TKaB$?9E48Zn&M4+Tb%2E;AYHb#@ITZFOJ77.t$^UCg"q;.B.9Fs]oUb-n2D([O)8k9quVUGQ2.2CB&&&'lb>BL;`G:h:M&;AJne%,oTgO5iD,[Y(+srd;S@JboNC4fM%'$VT\2):jJ;hB]6[+gKMVLT^E;9$-0P;s5"XNQ1OO[bCPr>hJG+2e]EFc!]KI'U.-*\e#3A7<EKi"O*9o=&3)Xli"-4T<NQo8]P(c\/UBg7>!]Q.e:g?pP1l8(L,[*>Y/7/fuIH4k'@,uM*>o,B6U8Gj'ht'Ir[T(rl$;pL6L<SCfJl(qNM#mRFeY&V:Xrp0M2-b<phbQec.\T1Me\J#tcm&VO(ruIL@6qdn@WObh"^&5I(!PR5rfWOB@!@&V["g^V)jd6^s>8r%l<O<4Q?f.uY@K%qpAImi$/Hc5'M7go1lhF:_Le`,^9ZGm16YPuIOXheg9mD\Fb%ES[bm1ct^M[S</GNKknKlH3Kqos*Z<Z!]"YV%)T3<]SD;b_rX==7J.6KVSPK!Q&:_~>endstream
 endobj
 xref
 0 15
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000492 00000 n 
-0000000677 00000 n 
-0000000851 00000 n 
-0000001076 00000 n 
-0000001271 00000 n 
-0000001484 00000 n 
-0000001554 00000 n 
-0000001846 00000 n 
-0000001912 00000 n 
-0000004666 00000 n 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000149 00000 n 
+0000000368 00000 n 
+0000000548 00000 n 
+0000000754 00000 n 
+0000000943 00000 n 
+0000009076 00000 n 
+0000009118 00000 n 
+0000009225 00000 n 
+0000009338 00000 n 
+0000009548 00000 n 
+0000009768 00000 n 
+0000017824 00000 n 
 trailer
 <<
-/ID 
-[<a6388b81871fdea48c306224ce1faba2><a6388b81871fdea48c306224ce1faba2>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 11 0 R
-/Root 10 0 R
 /Size 15
+/Root 1 0 R
+/Info 14 0 R
+/ID [ <a6388b81871fdea48c306224ce1faba2> <a6388b81871fdea48c306224ce1faba2> ]
 >>
 startxref
-7455
+18155
 %%EOF
