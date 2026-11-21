@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import { FluidBackground } from "@/components/fluid-background";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
@@ -9,8 +10,13 @@ import { Experience } from "@/components/sections/experience";
 import { Skills } from "@/components/sections/skills";
 import { Credentials } from "@/components/sections/credentials";
 import { Contact } from "@/components/sections/contact";
+import { initAnalytics } from "@/lib/analytics";
 
 export default function App() {
+  useEffect(() => {
+    initAnalytics();
+  }, []);
+
   return (
     <div className="relative min-h-screen text-foreground">
       <FluidBackground />

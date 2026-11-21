@@ -4,7 +4,7 @@ import { Card, CardGlow } from "@/components/ui/card";
 import { Reveal } from "@/components/reveal";
 import { Section, SectionHeader } from "@/components/section";
 
-const icons = [Braces, Cloud, Sparkles, Database];
+const icons = [Braces, Sparkles, Cloud, Database];
 
 export function Skills() {
   return (

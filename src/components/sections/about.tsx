@@ -80,7 +80,7 @@ export function About() {
             >
               <div>
                 <p className="text-sm font-medium text-foreground">Full résumé</p>
-                <p className="mt-1 text-xs text-muted-foreground">One page · PDF</p>
+                <p className="mt-1 text-xs text-muted-foreground">Two pages · PDF</p>
               </div>
               <span className="grid size-10 place-items-center rounded-full border border-border text-muted-foreground transition-all group-hover:border-accent/60 group-hover:text-accent">
                 <ArrowUpRight className="size-4" />

@@ -26,6 +26,15 @@ export const stats = [
   { value: "AWS", label: "Current team, Seattle" },
 ];
 
+// Umami Cloud (https://cloud.umami.is). Fill these in after creating the site:
+// websiteId is the UUID from Settings → Websites, dashboardUrl is the private share link.
+// While websiteId is empty the tracker is never loaded and no data is collected.
+export const analytics = {
+  scriptUrl: "https://cloud.umami.is/script.js",
+  websiteId: "",
+  dashboardUrl: "",
+};
+
 export const navItems = [
   { label: "About", href: "#about" },
   { label: "Work", href: "#work" },
@@ -92,6 +101,36 @@ export const featuredProject = {
   ],
   stack: ["Amazon Bedrock", "CloudWatch", "Human-in-the-loop", "Read-only tool use"],
 };
+
+export const systemsProjects = [
+  {
+    name: "MCP Policy Gateway",
+    kicker: "Integration · Safety",
+    summary:
+      "A dual-era MCP server in front of a scheduler: caller scopes, per-tool rate limits, idempotency keys, execution budgets, and a redacted audit trail for every call.",
+    stack: ["Python", "MCP", "SQLite"],
+    repo: "https://github.com/vivshanbhag/mcp-policy-gateway",
+    design: "https://github.com/vivshanbhag/mcp-policy-gateway/blob/main/docs/HLD.md",
+  },
+  {
+    name: "Agent Eval Harness",
+    kicker: "Evaluation · Reliability",
+    summary:
+      "Trajectory-based evaluation for agents: ordered tool assertions, forbidden calls, cost and latency budgets, pass@k, stability, and record/replay for a deterministic CI gate.",
+    stack: ["Python", "CI", "Cassettes"],
+    repo: "https://github.com/vivshanbhag/agent-eval-harness",
+    design: "https://github.com/vivshanbhag/agent-eval-harness/blob/main/docs/HLD.md",
+  },
+  {
+    name: "Durable Agent Runtime",
+    kicker: "Durability · Human control",
+    summary:
+      "Crash-safe execution for multi-step workflows: a side-effect ledger that never repeats a write, persisted approvals, worker leases, and explicit review when a crash leaves a step ambiguous.",
+    stack: ["Python", "SQLite", "State machines"],
+    repo: "https://github.com/vivshanbhag/durable-agent-runtime",
+    design: "https://github.com/vivshanbhag/durable-agent-runtime/blob/main/docs/HLD.md",
+  },
+];
 
 export type Role = {
   period: string;
@@ -218,20 +257,6 @@ export const skillGroups = [
     ],
   },
   {
-    title: "Systems & Cloud Engineering",
-    blurb: "Infrastructure, reliability, and observability at scale.",
-    items: [
-      "AWS (EMR, Glue, Lambda, S3, EC2, DynamoDB, IAM, VPC)",
-      "AWS CDK",
-      "Cloud architecture",
-      "Distributed systems",
-      "Infrastructure as code",
-      "Automation",
-      "Observability",
-      "Reliability engineering",
-    ],
-  },
-  {
     title: "AI & Machine Learning",
     blurb: "Agentic workflows, model tooling, and applied ML.",
     items: [
@@ -246,6 +271,20 @@ export const skillGroups = [
       "XGBoost",
       "TensorFlow",
       "scikit-learn",
+    ],
+  },
+  {
+    title: "Systems & Cloud Engineering",
+    blurb: "Infrastructure, reliability, and observability at scale.",
+    items: [
+      "AWS (EMR, Glue, Lambda, S3, EC2, DynamoDB, IAM, VPC)",
+      "AWS CDK",
+      "Cloud architecture",
+      "Distributed systems",
+      "Infrastructure as code",
+      "Automation",
+      "Observability",
+      "Reliability engineering",
     ],
   },
   {

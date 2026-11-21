@@ -1,5 +1,5 @@
 import { ArrowUpRight, FileCode2, GitBranch, ShieldCheck, Terminal, Workflow } from "lucide-react";
-import { featuredProject } from "@/data/site";
+import { featuredProject, systemsProjects } from "@/data/site";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardGlow } from "@/components/ui/card";
@@ -173,6 +173,65 @@ export function Work() {
               </a>
             </Card>
           </Reveal>
+        </div>
+      </div>
+
+      <div className="mt-12">
+        <div className="flex flex-wrap items-end justify-between gap-3">
+          <div>
+            <p className="font-mono text-[10px] uppercase tracking-[0.18em] text-muted-foreground">
+              Production-pattern reference systems
+            </p>
+            <h3 className="mt-2 text-lg font-medium tracking-[-0.01em] text-foreground">
+              Three layers that make agents operable
+            </h3>
+          </div>
+          <p className="max-w-md text-xs leading-relaxed text-muted-foreground">
+            Connect safely, prove behaviour, survive failure. Each repository ships code, tests, an HLD and an LLD.
+          </p>
+        </div>
+
+        <div className="mt-5 grid gap-4 md:grid-cols-3">
+          {systemsProjects.map((system, index) => (
+            <Reveal key={system.name} delay={0.06 + index * 0.05}>
+              <Card className="flex h-full flex-col p-6">
+                <p className="font-mono text-[10px] uppercase tracking-[0.16em] text-accent">{system.kicker}</p>
+                <h4 className="mt-3 text-[15px] font-medium tracking-[-0.01em] text-foreground">{system.name}</h4>
+                <p className="mt-2 flex-1 text-[12px] leading-relaxed text-muted-foreground">{system.summary}</p>
+
+                <div className="mt-4 flex flex-wrap gap-1.5">
+                  {system.stack.map((item) => (
+                    <span
+                      key={item}
+                      className="rounded-full border border-border/80 bg-background/40 px-2 py-0.5 font-mono text-[9px] uppercase tracking-[0.1em] text-muted-foreground"
+                    >
+                      {item}
+                    </span>
+                  ))}
+                </div>
+
+                <div className="mt-5 flex items-center gap-4 border-t border-border/70 pt-4">
+                  <a
+                    href={system.repo}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1 text-[11px] font-medium text-accent transition-opacity hover:opacity-80"
+                  >
+                    Repository
+                    <ArrowUpRight className="size-3" />
+                  </a>
+                  <a
+                    href={system.design}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1 text-[11px] text-muted-foreground transition-colors hover:text-foreground"
+                  >
+                    HLD
+                  </a>
+                </div>
+              </Card>
+            </Reveal>
+          ))}
         </div>
       </div>
     </Section>

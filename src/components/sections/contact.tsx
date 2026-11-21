@@ -22,7 +22,7 @@ const channels = [
   },
   {
     label: "Résumé",
-    detail: "One page · PDF",
+    detail: "Two pages · PDF",
     href: profile.resume,
     icon: Download,
     external: false,
